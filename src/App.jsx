@@ -53,7 +53,7 @@ function App() {
         </div>
 
         {/* Functionalities of the password generator  */}
-        <div className="flex flex-wrap text-sm gap-x-2">
+        <div className="flex flex-wrap text-sm gap-x-2 justify-center">
           {/* Setting length */}
           <div className="flex items-center gap-x-1">
             <input 
